@@ -7,9 +7,5 @@ public class Math {
 			int c = a + b;
 			return c;
 		}
-		public static int multiply(int a, int b)
-		{
-			int c = a * b;
-			return c;
-		}
+	
 }
